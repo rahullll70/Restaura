@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
-      <img src="[public/readme/reedme-banner.jpg](https://github.com/rahullll70/Restaura/blob/main/reedme-banner.jpg" alt="Project Banner">
+      <img src="public/readme/reedme-banner.jpg" alt="Project Banner">
     </a>
   <br />
 
